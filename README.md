@@ -1,1 +1,1 @@
-# appium tutorial sample codes for sahibinden.com
+# sample codes for appium tutorial lessons - sahibinden.com
