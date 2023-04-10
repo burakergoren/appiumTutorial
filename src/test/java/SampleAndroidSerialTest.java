@@ -20,7 +20,7 @@ import java.time.Duration;
 import static io.appium.java_client.touch.WaitOptions.waitOptions;
 import static io.appium.java_client.touch.offset.PointOption.point;
 
-public class AppiumTutorial {
+public class SampleAndroidSerialTest {
     private AppiumDriver driver;
 
     @BeforeEach
